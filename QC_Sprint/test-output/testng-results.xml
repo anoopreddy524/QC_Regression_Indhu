@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="12" total="16" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="815694" started-at="2020-09-17T16:25:25Z" finished-at="2020-09-17T16:39:00Z">
+    <groups>
+      <group name="TLP12">
+        <method signature="QCStore.B20_846_TS_2()[pri:18, instance:tests.QCStore@5f9d02cb]" name="B20_846_TS_2" class="tests.QCStore"/>
+        <method signature="QCStore.B20_846_TS_5()[pri:21, instance:tests.QCStore@5f9d02cb]" name="B20_846_TS_5" class="tests.QCStore"/>
+        <method signature="QCStore.B20_849_TS_1()[pri:24, instance:tests.QCStore@5f9d02cb]" name="B20_849_TS_1" class="tests.QCStore"/>
+        <method signature="QCStore.B20_849_TS_3()[pri:25, instance:tests.QCStore@5f9d02cb]" name="B20_849_TS_3" class="tests.QCStore"/>
+      </group> <!-- TLP12 -->
+    </groups>
+    <test name="Test" duration-ms="815694" started-at="2020-09-17T16:25:25Z" finished-at="2020-09-17T16:39:00Z">
+      <class name="tests.QCStore">
+        <test-method status="PASS" signature="setup()[pri:0, instance:tests.QCStore@5f9d02cb]" name="setup" is-config="true" duration-ms="78" started-at="2020-09-17T16:25:25Z" finished-at="2020-09-17T16:25:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="killProcess()[pri:0, instance:tests.QCStore@5f9d02cb]" name="killProcess" is-config="true" duration-ms="1005" started-at="2020-09-17T16:25:25Z" finished-at="2020-09-17T16:25:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killProcess -->
+        <test-method status="PASS" signature="B20_846_TS_2()[pri:18, instance:tests.QCStore@5f9d02cb]" name="B20_846_TS_2" duration-ms="239248" started-at="2020-09-17T16:25:26Z" finished-at="2020-09-17T16:29:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- B20_846_TS_2 -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:tests.QCStore@5f9d02cb]" name="getResult" is-config="true" duration-ms="762" started-at="2020-09-17T16:29:25Z" finished-at="2020-09-17T16:29:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=B20_846_TS_2 status=SUCCESS method=QCStore.B20_846_TS_2()[pri:18, instance:tests.QCStore@5f9d02cb] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="killProcess()[pri:0, instance:tests.QCStore@5f9d02cb]" name="killProcess" is-config="true" duration-ms="1012" started-at="2020-09-17T16:29:26Z" finished-at="2020-09-17T16:29:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killProcess -->
+        <test-method status="PASS" signature="B20_846_TS_5()[pri:21, instance:tests.QCStore@5f9d02cb]" name="B20_846_TS_5" duration-ms="229162" started-at="2020-09-17T16:29:27Z" finished-at="2020-09-17T16:33:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- B20_846_TS_5 -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:tests.QCStore@5f9d02cb]" name="getResult" is-config="true" duration-ms="557" started-at="2020-09-17T16:33:16Z" finished-at="2020-09-17T16:33:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=B20_846_TS_5 status=SUCCESS method=QCStore.B20_846_TS_5()[pri:21, instance:tests.QCStore@5f9d02cb] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="killProcess()[pri:0, instance:tests.QCStore@5f9d02cb]" name="killProcess" is-config="true" duration-ms="1014" started-at="2020-09-17T16:33:17Z" finished-at="2020-09-17T16:33:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killProcess -->
+        <test-method status="PASS" signature="B20_849_TS_1()[pri:24, instance:tests.QCStore@5f9d02cb]" name="B20_849_TS_1" duration-ms="233753" started-at="2020-09-17T16:33:18Z" finished-at="2020-09-17T16:37:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- B20_849_TS_1 -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:tests.QCStore@5f9d02cb]" name="getResult" is-config="true" duration-ms="558" started-at="2020-09-17T16:37:11Z" finished-at="2020-09-17T16:37:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=B20_849_TS_1 status=SUCCESS method=QCStore.B20_849_TS_1()[pri:24, instance:tests.QCStore@5f9d02cb] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="killProcess()[pri:0, instance:tests.QCStore@5f9d02cb]" name="killProcess" is-config="true" duration-ms="1016" started-at="2020-09-17T16:37:12Z" finished-at="2020-09-17T16:37:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killProcess -->
+        <test-method status="PASS" signature="B20_849_TS_3()[pri:25, instance:tests.QCStore@5f9d02cb]" name="B20_849_TS_3" duration-ms="106907" started-at="2020-09-17T16:37:13Z" finished-at="2020-09-17T16:39:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- B20_849_TS_3 -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:tests.QCStore@5f9d02cb]" name="getResult" is-config="true" duration-ms="598" started-at="2020-09-17T16:39:00Z" finished-at="2020-09-17T16:39:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=B20_849_TS_3 status=SUCCESS method=QCStore.B20_849_TS_3()[pri:25, instance:tests.QCStore@5f9d02cb] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+      </class> <!-- tests.QCStore -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,21 @@
+
+V
+squid:S106";Replace this usage of System.out or System.err by a logger.(¦¼¦ãúÿÿÿÿ
+V
+squid:S106";Replace this usage of System.out or System.err by a logger.(©ø…­úÿÿÿÿ
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦ªÒöþÿÿÿÿ
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦ªÒöþÿÿÿÿ
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©
+nsquid:S00117L"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø¸íÈ
+Q
+squid:S106!";Replace this usage of System.out or System.err by a logger.(ÕŒô•
+gsquid:CommentedOutCodeLine""<This block of commented-out lines of code should be removed.(ÕÉµÕüÿÿÿÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(‹™®Õüÿÿÿÿ
+bsquid:CommentedOutCodeLine/"<This block of commented-out lines of code should be removed.(†åîÊ
+csquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(¦ªÒöþÿÿÿÿ
+ssquid:S00117 "VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö¼Õ÷üÿÿÿÿ
+?squid:S1148`"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+nsquid:S00117L"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø¸íÈ
+Asquid:S1166^"%Either log or rethrow this exception.(¼Ôîàùÿÿÿÿ
+]squid:S1192"FDefine a constant instead of duplicating this literal "Login" 3 times.(ºÊã¤
+Asquid:S1172L"*Remove this unused method parameter "SSN".(ø¸íÈ

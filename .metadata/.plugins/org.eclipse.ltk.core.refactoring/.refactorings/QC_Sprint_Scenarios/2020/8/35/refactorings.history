@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;QCAgeStoreDueDate.java&apos; to &apos;tests.JQCAdminLoginLogout.java&apos;&#x0D;&#x0A;- Original project: &apos;QC_Sprint_Scenarios&apos;&#x0D;&#x0A;- Destination element: &apos;tests.JQCAdminLoginLogout.java&apos;&#x0D;&#x0A;- Original element: &apos;tests.QCAgeStoreDueDate.java&apos;" description="Copy compilation unit" destination="=QC_CONVERSION/src\/main\/java&lt;tests{JQCAdminLoginLogout.java" element1="/src\/main\/java&lt;tests{QCAgeStoreDueDate.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1598260083338" units="1" version="1.0"/>
+</session>

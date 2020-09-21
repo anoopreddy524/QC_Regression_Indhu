@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="108" total="109" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="1398988" started-at="2020-09-18T06:15:18Z" finished-at="2020-09-18T06:38:37Z">
+    <groups>
+      <group name="REQ_918_B20_40312">
+        <method signature="QCStore.B20_403_TS_5()[pri:5, instance:tests.QCStore@5f9d02cb]" name="B20_403_TS_5" class="tests.QCStore"/>
+      </group> <!-- REQ_918_B20_40312 -->
+    </groups>
+    <test name="Test" duration-ms="1398988" started-at="2020-09-18T06:15:18Z" finished-at="2020-09-18T06:38:37Z">
+      <class name="tests.QCStore">
+        <test-method status="PASS" signature="setup()[pri:0, instance:tests.QCStore@5f9d02cb]" name="setup" is-config="true" duration-ms="77" started-at="2020-09-18T06:15:18Z" finished-at="2020-09-18T06:15:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="killProcess()[pri:0, instance:tests.QCStore@5f9d02cb]" name="killProcess" is-config="true" duration-ms="6" started-at="2020-09-18T06:15:18Z" finished-at="2020-09-18T06:15:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killProcess -->
+        <test-method status="PASS" signature="B20_403_TS_5()[pri:5, instance:tests.QCStore@5f9d02cb]" name="B20_403_TS_5" duration-ms="1398134" started-at="2020-09-18T06:15:18Z" finished-at="2020-09-18T06:38:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- B20_403_TS_5 -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:tests.QCStore@5f9d02cb]" name="getResult" is-config="true" duration-ms="756" started-at="2020-09-18T06:38:36Z" finished-at="2020-09-18T06:38:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=B20_403_TS_5 status=SUCCESS method=QCStore.B20_403_TS_5()[pri:5, instance:tests.QCStore@5f9d02cb] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+      </class> <!-- tests.QCStore -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
